@@ -11,7 +11,7 @@ client.once('ready', () => {
 client.on('message', message => {
 
 
-    if (message.content === '!amrit') {
+    if (message.content === '!s amrit') {
 
 
         const embed = new MessageEmbed()
@@ -28,7 +28,7 @@ client.on('message', message => {
 client.on('message', message => {
 
 
-    if (message.content === '!kirpan') {
+    if (message.content === '!s kirpan') {
 
 
         const embed = new MessageEmbed()
